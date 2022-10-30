@@ -16,7 +16,7 @@ for feature in ./.kit/features/* ; do
     pwd
     script="$feature"/install-into-client.sh
     if [[ -e "$script" ]] ; then
-        echo "$scipt"
+#        echo "$scipt"
         "$script"
     fi
 done
