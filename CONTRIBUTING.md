@@ -81,7 +81,7 @@ As a reference, the basic steps for working with GitHub Flow are as follows:
   * Go to the [FarmData2 Repository] (the _upstream_)
   * [Fork](https://docs.gihub.com/en/get-started/quickstart/fork-a-repo) the _upstream_ repository to your GitHub (the _origin_).
   * [Clone] the _origin_ repository to your local machine.
-  * Set the  _upstream_ remote for your local repository to point to the _upstream_ repository.
+  * [Set the  _upstream_ remote] ( https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-for-a-fork) for your local repository to point to the _upstream_ repository.
   * Create a _feature branch_ from the _main_ branch your local machine.
   * Make the edits to the documentation or the code in your _feature branch_.
   * Commit your edits.
